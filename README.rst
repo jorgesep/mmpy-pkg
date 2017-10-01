@@ -1,5 +1,5 @@
-# mmpy-pkg
-Scientific python package for working with Maths and Music
+Maths and Music in Python
+-------------------------
 
 This is a Python package to experiment with audio files (wav files) and performs some math
 operations over audio signals. The library can read files in different formats and convert
